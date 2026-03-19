@@ -3,6 +3,7 @@ reviewers:
 - Karthik-K-N
 - multiarch-reviewers
 approvers:
+- damdo
 - mkumatag
 - Karthik-K-N
 - JoelSpeed
